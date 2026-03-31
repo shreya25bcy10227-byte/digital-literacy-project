@@ -49,8 +49,9 @@ Prepared a case study on UPI fraud and developed a prevention checklist to promo
 
 ## 🔗 Useful Links
 - Google Form Quiz: [https://docs.google.com/forms/d/e/1FAIpQLSe254A-kOYmO9dlY7H_xfQmFqsjWvRB30m_RqBjIWWGkrdm3g/viewform?usp=publish-editor]  
-- GitHub Profile: [Paste your link here]  
-- LinkedIn Profile: [Paste your link here]  
+- GitHub Profile: [shreya25bcy10227-byte
+shreya25bcy10227-byte/shreya25bcy10227-byte]  
+- LinkedIn Profile: [www.linkedin.com/in/s-shreya-9356a13bb]  
 
 ---
 
